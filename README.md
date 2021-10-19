@@ -37,3 +37,5 @@ vbs for gui, batch for backend, ps (powershell) for the complex stuff needed
 # Future of this project
 
 If you have noticed there is relese on the relese page; my plans are to expand the project further by porting it to vbs or ps1 (powershell script) adding complex features like wget or curl for Linux, or adding a ui with vbs making it a download manager and even porting it to bash for UNIX.
+
+My plan is to make a powerfull cli app made with a vanilla shell language.
